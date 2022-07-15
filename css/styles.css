@@ -1,0 +1,19 @@
+.pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+nav a {
+  width: 100%;
+  height: 100px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 30px;
+  justify-content: center;
+  text-decoration: none;
+  color:white;
+  background-color: rgb(27, 126, 207);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
